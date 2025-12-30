@@ -1,0 +1,15 @@
+{
+  "name": "vm",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    
+  },
+  "peerDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
