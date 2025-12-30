@@ -82,6 +82,7 @@ Bun.serve({
     routes: {
         '/': () => new Response('service is ok'),
         '/github': withCors(() => main()),
+        "/*": () => new Response("404"),
     },
     fetch() {
         return withCors(new Response('Not Found', {status: 404}))
