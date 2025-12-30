@@ -24,28 +24,10 @@ async function main() {
             version: "v1.10.6"
         },
         {
-            name: "Bruno",
-            owner: "usebruno",
-            repo: "bruno",
-            version: "v2.15.1"
-        },
-        {
-            name: "Clash", // 注意：原版已归档，假设你用的是 Rev 版
+            name: "Clash",
             owner: "clash-verge-rev",
             repo: "clash-verge-rev",
             version: "v2.4.4"
-        },
-        {
-            name: "Rectangle",
-            owner: "rxhanson",
-            repo: "Rectangle",
-            version: "v0.92"
-        },
-        {
-            name: "Dataflare",
-            owner: "DataflareApp",
-            repo: "Dataflare",
-            version: "v2.7.2"
         },
         {
             name: "FileBrowser",
@@ -58,12 +40,6 @@ async function main() {
             owner: "go-gitea",
             repo: "gitea",
             version: "v1.25.3"
-        },
-        {
-            name: "fastadminnet",
-            owner: "fastadminnet",
-            repo: "fastadmin",
-            version: "v1.6.1.20250430"
         },
         {
             name: "Caddy",
