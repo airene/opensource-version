@@ -21,7 +21,7 @@ async function main() {
             name: "Obsidian",
             owner: "obsidianmd",
             repo: "obsidian-releases",
-            version: "v1.10.6"
+            version: "v1.11.5"
         },
         {
             name: "Clash",
@@ -33,13 +33,13 @@ async function main() {
             name: "FileBrowser",
             owner: "filebrowser",
             repo: "filebrowser",
-            version: "v2.53.0"
+            version: "v2.55.0"
         },
         {
             name: "Gitea",
             owner: "go-gitea",
             repo: "gitea",
-            version: "v1.25.3"
+            version: "v1.25.4"
         },
         {
             name: "Caddy",
