@@ -33,13 +33,13 @@ async function main() {
             name: "FileBrowser",
             owner: "filebrowser",
             repo: "filebrowser",
-            version: "v2.62.1"
+            version: "v2.63.3"
         },
         {
             name: "Gitea",
             owner: "go-gitea",
             repo: "gitea",
-            version: "v1.25.5"
+            version: "v1.26.1"
         },
         {
             name: "Caddy",
