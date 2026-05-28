@@ -27,25 +27,25 @@ async function main() {
             name: "Clash",
             owner: "clash-verge-rev",
             repo: "clash-verge-rev",
-            version: "v2.4.7"
+            version: "v2.5.1"
         },
         {
             name: "FileBrowser",
             owner: "filebrowser",
             repo: "filebrowser",
-            version: "v2.63.3"
+            version: "v2.63.5"
         },
         {
             name: "Gitea",
             owner: "go-gitea",
             repo: "gitea",
-            version: "v1.26.1"
+            version: "v1.26.2"
         },
         {
             name: "Caddy",
             owner: "caddyserver",
             repo: "caddy",
-            version: "v2.11.2"
+            version: "v2.11.3"
         },
     ];
 
