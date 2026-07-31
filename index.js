@@ -21,31 +21,31 @@ async function main() {
             name: "Obsidian",
             owner: "obsidianmd",
             repo: "obsidian-releases",
-            version: "v1.12.7"
+            version: "v1.13.4"
         },
         {
             name: "Clash",
             owner: "clash-verge-rev",
             repo: "clash-verge-rev",
-            version: "v2.5.1"
+            version: "v2.5.2"
         },
         {
             name: "FileBrowser",
             owner: "filebrowser",
             repo: "filebrowser",
-            version: "v2.63.5"
+            version: "v2.63.23"
         },
         {
             name: "Gitea",
             owner: "go-gitea",
             repo: "gitea",
-            version: "v1.26.2"
+            version: "v1.27.1"
         },
         {
             name: "Caddy",
             owner: "caddyserver",
             repo: "caddy",
-            version: "v2.11.3"
+            version: "v2.11.4"
         },
     ];
 
